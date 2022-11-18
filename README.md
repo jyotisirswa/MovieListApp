@@ -6,9 +6,9 @@
 > Keywords:- VIPER Architecture, Protocols, Extensions, NotificationObserver, Enums, TypeAlias, Codable, Computed Property, Result, Userdefaults, Prorperty Observers, private initializer, Final Classes, Optional Binding, AccessModifiers, Type properties, Sequence, Generic functions 
 > XCTest cases
 
-[url=https://postimg.cc/gx52nT1x][img]https://i.postimg.cc/gx52nT1x/Simulator-Screen-Shot-i-Phone-11-Pro-Max-2022-11-09-at-00-19-48.png[/img][/url]
+[img]https://i.postimg.cc/gx52nT1x/Simulator-Screen-Shot-i-Phone-11-Pro-Max-2022-11-09-at-00-19-48.png[/img][/url]
 
-[url=https://postimg.cc/vDQbHyDP][img]https://i.postimg.cc/vDQbHyDP/Simulator-Screen-Shot-i-Phone-11-Pro-Max-2022-11-09-at-00-19-57.png[/img][/url]
+[img]https://i.postimg.cc/vDQbHyDP/Simulator-Screen-Shot-i-Phone-11-Pro-Max-2022-11-09-at-00-19-57.png[/img][/url]
 
 
 ![Simulator Screen Shot - iPhone 11 Pro Max - 2022-11-09 at 00 19 40](https://user-images.githubusercontent.com/24698471/200672503-6c0e453b-693f-4e41-a738-b47714d665da.png)
